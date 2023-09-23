@@ -1,0 +1,1 @@
+COPY "%cd%\template\tasks.json" "%cd%\queue\tasks.json"
